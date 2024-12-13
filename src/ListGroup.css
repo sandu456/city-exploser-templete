@@ -15,7 +15,7 @@
   }
   
   .list-group-item:hover {
-    background-color: blue;
+    background-color: lightblue;
   }
   
   .list-group-item.selected {
