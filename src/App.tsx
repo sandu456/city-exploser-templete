@@ -63,7 +63,7 @@ const App: React.FC = () => {
       />
       
       <div className="add-city-form">
-      <h3>Add a New City</h3>
+      <h2>Add a New City</h2>
      
         <input
           type="text"
